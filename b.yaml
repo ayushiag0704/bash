@@ -1,0 +1,7 @@
+steps:
+- task: NuGetToolInstaller@0
+
+- task: DownloadSecureFile@1
+  displayName: 'Download secure file'
+  inputs:
+    secureFile: 'e410a7cd-f83c-45fe-a559-882193b8a6ed'
