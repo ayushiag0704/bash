@@ -4,4 +4,4 @@ steps:
 - task: DownloadSecureFile@1
   displayName: 'Download secure file'
   inputs:
-    secureFile: 'ca4e1d3f-af54-4a8c-8cd6-181ba2485a65'
+    secureFile: '2c0902c4-e1b6-43f4-8bed-5aa186d797d4'
